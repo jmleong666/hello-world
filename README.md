@@ -1,4 +1,2 @@
 # hello-world
-what else do you want me to say
-what else can i say
-im just made out of lines of code
+"Indeed, from the point of view of derived algebraic geometry, the Ext algebra of a skyscraper sheaf always appears as the convolution algebra of volume forms on the based loop space."
